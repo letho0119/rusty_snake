@@ -1,5 +1,6 @@
 # Rusty Snake
 
+
 ## Introduction
 
 This is a work in progress for testing gaming with blockchain technologies.  
@@ -18,3 +19,4 @@ Blockchain framework: [Substrate](https://substrate.io/)
 ## Arts
 
 Thank you [Laena Zimmerman (Sharm)](https://opengameart.org/users/sharm), [Tuomo Untinen (Reemax)](https://opengameart.org/users/reemax) and [Jordan Irwin (AntumDeluge)](https://opengameart.org/users/antumdeluge).
+
